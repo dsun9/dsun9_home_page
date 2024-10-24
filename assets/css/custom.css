@@ -1,0 +1,27 @@
+.avatar-wrapper {
+    position: relative;
+    width: 225px; /* Match image size in about.avatar widget */
+    height: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+}
+.avatar {
+    width: auto;
+    height: auto;
+    max-width: 225px;
+    max-height: 225px;
+    width: 225px; /* Match image size in about.avatar widget */
+    height: 225px;
+    object-fit: cover;
+}
+.resume-biography .avatar {
+    width: auto;
+    height: auto;
+    max-width: 225px;
+    max-height: 225px;
+    width: 225px; /* Match image size in about.avatar widget */
+    height: 225px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}

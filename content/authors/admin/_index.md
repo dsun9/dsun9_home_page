@@ -10,8 +10,8 @@ first_name: Dachun
 last_name: Sun
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true

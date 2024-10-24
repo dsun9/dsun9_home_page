@@ -54,3 +54,26 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /publication/**
+    pager: true
+    # editable: true
+    # reading_time: true
+    # commentable: true
+    # show_related: true
+    show_breadcrumb: true
+    share: false
+    # header:
+    #   navbar:
+    #     enable: false
+  - _target:
+      path: /event/**
+    pager: true
+    # editable: true
+    # reading_time: true
+    # commentable: true
+    # show_related: true
+    show_breadcrumb: true
+    share: true

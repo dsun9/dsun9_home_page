@@ -22,4 +22,5 @@ publication: '*Proceedings of the 45th International ACM SIGIR Conference on Res
 # - name: URL
 #   url: https://dl.acm.org/doi/10.1145/3477495.3532072
 url_pdf: https://dl.acm.org/doi/10.1145/3477495.3532072
+url_code: https://github.com/happydeadline/InfoVGAE
 ---

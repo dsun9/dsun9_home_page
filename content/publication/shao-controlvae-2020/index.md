@@ -18,4 +18,5 @@ publication: '*International conference on machine learning*'
 # - name: URL
 #   url: https://proceedings.mlr.press/v119/shao20b.html
 url_pdf: https://proceedings.mlr.press/v119/shao20b.html
+url_code: https://github.com/shj1987/ControlVAE-ICML2020
 ---
