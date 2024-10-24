@@ -53,7 +53,7 @@ interests:
   - Multimodal Models
 
 education:
-  - area: PhD in Computer Science
+  - area: PhD (Candidate) in Computer Science
     institution: University of Illinois Urbana-Champaign
     date_start: 2020-08-01
     date_end: 2025-05-20
