@@ -31,7 +31,8 @@ abstract: The proliferation of political memes in modern information campaigns c
   in the presence of a small amount of supervision.
 tags:
 - Computer Science - Social and Information Networks
-links:
-- name: URL
-  url: http://arxiv.org/abs/2305.14494
+# links:
+# - name: URL
+#   url: http://arxiv.org/abs/2305.14494
+url_pdf: http://arxiv.org/abs/2305.14494
 ---

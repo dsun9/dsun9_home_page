@@ -16,7 +16,7 @@ publishDate: '2024-10-22T21:14:10.115239Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: ACL 2023*'
-doi: 10.18653/v1/2023.findings-acl.153
+# doi: 10.18653/v1/2023.findings-acl.153
 abstract: This paper studies speculative reasoning task on real-world knowledge graphs
   (KG) that contain both false negative issue (i.e., potential true facts being excluded)
   and false positive issue (i.e., unreliable or outdated facts being included). State-of-the-art
@@ -33,7 +33,8 @@ abstract: This paper studies speculative reasoning task on real-world knowledge 
   Empirically, extensive experiments on three benchmark KG and one Twitter dataset
   with various degrees of false negative/positive cases demonstrate the effectiveness
   of nPUGraph.
-links:
-- name: URL
-  url: https://aclanthology.org/2023.findings-acl.153
+# links:
+# - name: URL
+#   url: https://aclanthology.org/2023.findings-acl.153
+url_pdf: https://aclanthology.org/2023.findings-acl.153
 ---

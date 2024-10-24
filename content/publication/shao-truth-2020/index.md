@@ -15,7 +15,8 @@ publishDate: '2024-10-22T21:14:10.194233Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Computers*'
-links:
-- name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/9138694/
+# links:
+# - name: URL
+#   url: https://ieeexplore.ieee.org/abstract/document/9138694/
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9138694/
 ---

@@ -36,7 +36,8 @@ tags:
 - Computer Science - Computers and Society
 - Computer Science - Social and Information Networks
 - Physics - Physics and Society
-links:
-- name: URL
-  url: http://arxiv.org/abs/2005.00112
+# links:
+# - name: URL
+#   url: http://arxiv.org/abs/2005.00112
+url_pdf: http://arxiv.org/abs/2005.00112
 ---

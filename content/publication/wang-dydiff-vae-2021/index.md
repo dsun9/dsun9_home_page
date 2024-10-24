@@ -17,8 +17,9 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 44th International ACM SIGIR Conference on Research
   and Development in Information Retrieval*'
-doi: 10.1145/3404835.3462934
-links:
-- name: URL
-  url: https://dl.acm.org/doi/10.1145/3404835.3462934
+# doi: 10.1145/3404835.3462934
+# links:
+# - name: URL
+#   url: https://dl.acm.org/doi/10.1145/3404835.3462934
+url_pdf: https://dl.acm.org/doi/10.1145/3404835.3462934
 ---

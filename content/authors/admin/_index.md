@@ -30,15 +30,15 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:dc.sun9@gmail.com'
+  - icon: envelope-solid
+    url: 'mailto:dsun18@illinois.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/D_Sun9
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/hrukalive
+    url: https://rb.gy/u22bgz
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dachun-sun/
   - icon: academicons/google-scholar
@@ -53,19 +53,19 @@ interests:
   - Multimodal Models
 
 education:
-  - area: Ph.D. in Computer Science
+  - area: PhD in Computer Science
     institution: University of Illinois Urbana-Champaign
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-08-01
+    date_end: 2025-05-20
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MS in Computer Science
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2022-08-01
+    date_end: 2023-05-20
     summary: |
       GPA: 3.8/4.0
 
@@ -73,10 +73,21 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA in Music
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2016-08-01
+    date_end: 2020-05-20
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BS in Computer Science
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2015-08-01
+    date_end: 2020-05-20
     summary: |
       GPA: 3.4/4.0
       
@@ -110,37 +121,37 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
 languages:
   - name: English
@@ -155,10 +166,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Outstanding Teaching Assistant Award
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2024-10-17'
+    awarder: University of illinois Urbana-Champaign
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.

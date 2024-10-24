@@ -17,7 +17,8 @@ publishDate: '2024-10-22T21:14:10.148145Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in big Data*'
-links:
-- name: URL
-  url: https://www.frontiersin.org/articles/10.3389/fdata.2021.729881/full
+# links:
+# - name: URL
+#   url: https://www.frontiersin.org/articles/10.3389/fdata.2021.729881/full
+url_pdf: https://www.frontiersin.org/articles/10.3389/fdata.2021.729881/full
 ---

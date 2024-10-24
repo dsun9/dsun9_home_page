@@ -17,7 +17,8 @@ publication_types:
 - paper-conference
 publication: '*2024 33rd International Conference on Computer Communications and Networks
   (ICCCN)*'
-links:
-- name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/10637650/
+# links:
+# - name: URL
+#   url: https://ieeexplore.ieee.org/abstract/document/10637650/
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10637650/
 ---

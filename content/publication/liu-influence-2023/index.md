@@ -17,7 +17,8 @@ publication_types:
 - paper-conference
 publication: '*2023 IEEE 9th International Conference on Collaboration and Internet
   Computing (CIC)*'
-links:
-- name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/10429919/
+# links:
+# - name: URL
+#   url: https://ieeexplore.ieee.org/abstract/document/10429919/
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10429919/
 ---

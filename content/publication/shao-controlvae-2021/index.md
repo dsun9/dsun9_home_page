@@ -15,7 +15,8 @@ publishDate: '2024-10-22T21:14:10.167369Z'
 publication_types:
 - article-journal
 publication: '*IEEE transactions on pattern analysis and machine intelligence*'
-links:
-- name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/9618835/
+# links:
+# - name: URL
+#   url: https://ieeexplore.ieee.org/abstract/document/9618835/
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9618835/
 ---

@@ -16,7 +16,8 @@ publishDate: '2024-10-22T21:14:10.108838Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Control of Network Systems*'
-links:
-- name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/10309241/
+# links:
+# - name: URL
+#   url: https://ieeexplore.ieee.org/abstract/document/10309241/
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10309241/
 ---
